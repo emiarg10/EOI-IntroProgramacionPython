@@ -1,0 +1,3 @@
+El procentaje de mujeres es del: 44%
+El porcentaje de hombres es del: 56%
+Hay mas mujeres que chicas

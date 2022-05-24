@@ -1,0 +1,4 @@
+Hay una cantidad de: 35 chicas mayores de edad
+Las mujer mas vieja tiene: Mujer 99 años
+Las mujer mas joven tiene: Mujer 10 años
+El promedio de edad de las mujeres es de: 41.92%

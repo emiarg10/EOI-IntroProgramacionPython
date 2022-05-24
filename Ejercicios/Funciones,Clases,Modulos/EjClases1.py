@@ -6,6 +6,8 @@ class vehiculo:
         print('Soy publico')
 
 g1 = vehiculo()
+
 #g1.__privado()
+
 g1._vehiculo__privado()
 g1.metodo_publico()

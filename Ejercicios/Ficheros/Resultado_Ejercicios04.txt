@@ -1,0 +1,15 @@
+Resultado del ejercicio 05 de colecciones con ficheros
+====================================================================================================
+La ciudad con el promedio anual mas alto es: Ciudad Real -> 32.33ºC
+La ciudad con el promedio anual mas baja es: Badajoz -> 14.75ºC
+
+Resumen de las ciudades con las temperaturas mas altas del año (ordenadas ascendentemente)
+====================================================================================================
+	Ciudad Real 32.33 ºC		Cuenca      30.50 ºC		Cáceres     30.42 ºC
+	Formentera  30.08 ºC		Barcelona   27.08 ºC		Alicante    26.92 ºC
+	Burgos      26.17 ºC		Girona      26.08 ºC		Avila       25.25 ºC
+	Malaga      24.50 ºC		Asturias    24.42 ºC		Cádiz       24.25 ºC
+	Córdoba     24.00 ºC		Almería     23.17 ºC		Alava       21.33 ºC
+	Albacete    20.17 ºC		Ceuta       19.08 ºC		Castellón   16.58 ºC
+	Cantabria   15.25 ºC		Badajoz     14.75 ºC	
+====================================================================================================

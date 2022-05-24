@@ -1,0 +1,4 @@
+Hay un total de 80 personas mayores de edad
+La persona mas joven tiene: 2 años
+La persona mas vieja tiene: 99 años
+La media de edad es de: 48.58 

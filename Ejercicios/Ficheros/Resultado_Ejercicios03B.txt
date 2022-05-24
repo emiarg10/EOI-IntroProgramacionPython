@@ -1,0 +1,4 @@
+Hay una cantidad de: 11 chicos menores de edad
+El hombre mas viejo tiene: Hombre 98 años
+El hombre mas joven tiene: Hombre 1 años
+El promedio de edad de los hombres es de: 46.9%
